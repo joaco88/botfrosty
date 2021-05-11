@@ -279,7 +279,7 @@ module.exports = hexa = async (hexa, mek) => {
 switch (command) {
     case 'menu':
     case 'help':
-    	var menu = `Hai ${pushname}
+    	var menu = `Hola ${pushname}
 Prefix : 「 MULTI-PREFIX 」
 
 *</OWNER>*
@@ -348,7 +348,7 @@ Prefix : 「 MULTI-PREFIX 」
 ► _${prefix}term_ <code>
 ► _x_ <code>
 
-❏ *SELF-BOT* ❏`
+❏ 𝑩𝒀 𝑷𝑨𝑻𝑶 𝑻𝜩𝑨𝑴 ❏`
         	fakestatus(menu)
            	break
     case 'on':
